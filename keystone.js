@@ -25,7 +25,7 @@ keystone.init({
 	
 	'auto update': true,
 	'auth': true,
-	'user model': '
+	'user model': 'Person'
 	
 });
 
